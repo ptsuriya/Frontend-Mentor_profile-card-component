@@ -9,7 +9,7 @@ body{
     flex-direction:row;
     justify-content:center;
     align-items: center;
-
+    
     background-color: hsl(185, 75%, 39%) ;
     background-image: url(./images/bg-pattern-top.svg),url(./images/bg-pattern-bottom.svg);
     background-position: -15% 150%,125% -150%;
